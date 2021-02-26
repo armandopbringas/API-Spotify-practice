@@ -1,0 +1,207 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1NiC1V6xc8OR1ERiIoCvtx",
+        "id" : "1NiC1V6xc8OR1ERiIoCvtx",
+        "name" : "Los Angeles Negros",
+        "type" : "artist",
+        "uri" : "spotify:artist:1NiC1V6xc8OR1ERiIoCvtx"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MV", "MW", "MX", "MY", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/427RaNcXhoy1CpNySfJ4cd",
+      "id" : "427RaNcXhoy1CpNySfJ4cd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273410185ae806a6289b2ff500c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02410185ae806a6289b2ff500c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851410185ae806a6289b2ff500c",
+        "width" : 64
+      } ],
+      "name" : "Clásicos Latinos",
+      "release_date" : "1994-08-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:427RaNcXhoy1CpNySfJ4cd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1NiC1V6xc8OR1ERiIoCvtx",
+      "id" : "1NiC1V6xc8OR1ERiIoCvtx",
+      "name" : "Los Angeles Negros",
+      "type" : "artist",
+      "uri" : "spotify:artist:1NiC1V6xc8OR1ERiIoCvtx"
+    } ],
+    "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MV", "MW", "MX", "MY", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZW" ],
+    "disc_number" : 1,
+    "duration_ms" : 243573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CLUM71901169"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1skQgtTyuxpGsKgWUEhz7s",
+    "id" : "1skQgtTyuxpGsKgWUEhz7s",
+    "is_local" : false,
+    "name" : "Y Volveré",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eded68b7490569917b21fde51792eedad32e7167?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1skQgtTyuxpGsKgWUEhz7s"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1NiC1V6xc8OR1ERiIoCvtx",
+        "id" : "1NiC1V6xc8OR1ERiIoCvtx",
+        "name" : "Los Angeles Negros",
+        "type" : "artist",
+        "uri" : "spotify:artist:1NiC1V6xc8OR1ERiIoCvtx"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MV", "MW", "MX", "MY", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/427RaNcXhoy1CpNySfJ4cd",
+      "id" : "427RaNcXhoy1CpNySfJ4cd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273410185ae806a6289b2ff500c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02410185ae806a6289b2ff500c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851410185ae806a6289b2ff500c",
+        "width" : 64
+      } ],
+      "name" : "Clásicos Latinos",
+      "release_date" : "1994-08-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:427RaNcXhoy1CpNySfJ4cd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1NiC1V6xc8OR1ERiIoCvtx",
+      "id" : "1NiC1V6xc8OR1ERiIoCvtx",
+      "name" : "Los Angeles Negros",
+      "type" : "artist",
+      "uri" : "spotify:artist:1NiC1V6xc8OR1ERiIoCvtx"
+    } ],
+    "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MV", "MW", "MX", "MY", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZW" ],
+    "disc_number" : 1,
+    "duration_ms" : 169720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CLUM71901170"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7lmK8HJzXjD7JW88tQGVUT",
+    "id" : "7lmK8HJzXjD7JW88tQGVUT",
+    "is_local" : false,
+    "name" : "Cómo Quisiera Decirte",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f78b77cf17e3b042b0fe8b72a2f1012bcfcca649?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7lmK8HJzXjD7JW88tQGVUT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1NiC1V6xc8OR1ERiIoCvtx",
+        "id" : "1NiC1V6xc8OR1ERiIoCvtx",
+        "name" : "Los Angeles Negros",
+        "type" : "artist",
+        "uri" : "spotify:artist:1NiC1V6xc8OR1ERiIoCvtx"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MV", "MW", "MX", "MY", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/427RaNcXhoy1CpNySfJ4cd",
+      "id" : "427RaNcXhoy1CpNySfJ4cd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273410185ae806a6289b2ff500c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02410185ae806a6289b2ff500c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851410185ae806a6289b2ff500c",
+        "width" : 64
+      } ],
+      "name" : "Clásicos Latinos",
+      "release_date" : "1994-08-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:427RaNcXhoy1CpNySfJ4cd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1NiC1V6xc8OR1ERiIoCvtx",
+      "id" : "1NiC1V6xc8OR1ERiIoCvtx",
+      "name" : "Los Angeles Negros",
+      "type" : "artist",
+      "uri" : "spotify:artist:1NiC1V6xc8OR1ERiIoCvtx"
+    } ],
+    "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MV", "MW", "MX", "MY", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZW" ],
+    "disc_number" : 1,
+    "duration_ms" : 202053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CLUM71901174"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6PyXH8zknCSDFUMMpWlqmm",
+    "id" : "6PyXH8zknCSDFUMMpWlqmm",
+    "is_local" : false,
+    "name" : "Murió La Flor",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/93c6e3038e5b2d0bb80de43c397bdda757183c78?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6PyXH8zknCSDFUMMpWlqmm"
+  } ]
+}
