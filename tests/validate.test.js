@@ -1,4 +1,4 @@
-const { normalize } = require("yargs");
+// const { normalize } = require("yargs");
 const invalidTracksResponse = require("../fixtures/tracks-angeles.json");
 const { normalizeTracksResponse, normalizeAudioFeaturesResponse } = require("../lib/normalize");
 
@@ -12,6 +12,6 @@ describe("Validate", () => {
   });
 });
 
-test("Validate the ugliest input", () => {
-  //expect(normalize(validTracksResponse)).toStrictEqual(true);
-});
+// test("Validate the ugliest input", () => {
+  // expect(normalize(validTracksResponse)).toStrictEqual(true);
+// });
